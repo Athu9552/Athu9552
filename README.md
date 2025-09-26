@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi there 👋, I'm Atharva Kumbhar  
 
-<!--
-**Athu9552/Athu9552** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student | 💻 Full Stack Developer | 🌱 Learning Angular  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
+- 🔹 Passionate about building web applications  
+- 🔹 Skilled in PHP, Java, JavaScript, and MySQL  
+- 🔹 Interested in Full Stack Development  
+- 🔹 Always learning & exploring new technologies  
+
+---
+
+## 🛠️ Tech Stack  
+**Frontend:** HTML, CSS, JavaScript, Angular  
+**Backend:** PHP, Java  
+**Database:** MySQL  
+**Tools:** Git, GitHub, VS Code, Netlify  
+
+---
+
+## 📌 Featured Projects  
+- [Student Attendance Web App](https://github.com/Athu9552/Student-Attandace-Web-App) – Manage student attendance (PHP + MySQL)  
+- [Typing Speed Test App](https://github.com/Athu9552/Type-Master) – Static typing speed tester (JavaScript)  
+- [Login & Signup System](https://github.com/Athu9552/FullStack_Task2_Login-Signup-System-using-PHP-MySQL) – Authentication system (PHP + MySQL)  
+- [Tic Tac Toe](https://github.com/Athu9552/tic-tac-toe-javascript-project) – Classic game built with JavaScript  
+
+---
+
+## 📊 GitHub Stats  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Athu9552&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athu9552&layout=compact&theme=radical)  
+
+---
+
+## 📫 Connect with Me  
+[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github&logoColor=white)](https://github.com/Athu9552)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](Your-LinkedIn-Link)  
