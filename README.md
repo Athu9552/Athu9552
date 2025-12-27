@@ -1,13 +1,13 @@
 # Hi there 👋, I'm Atharva Kumbhar  
 
-🎓 BCA Student | 💻 Full Stack Developer | 🌱 Learning Angular  
+🎓 BCA Student | 💻 Frontend Developer | 🧑‍💻Learning React Js
 
 ---
 
 ## 🚀 About Me  
 - 🔹 Passionate about building web applications  
-- 🔹 Skilled in PHP, Java, JavaScript, and MySQL  
-- 🔹 Interested in Full Stack Development  
+- 🔹 Skilled in PHP, Core Java, JavaScript, and MySQL  
+- 🔹 Interested in Frontend Development  
 - 🔹 Always learning & exploring new technologies  
 
 ---
