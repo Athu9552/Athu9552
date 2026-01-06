@@ -23,7 +23,6 @@
 ## 📌 Featured Projects  
 - [Student Attendance Web App](https://github.com/Athu9552/Student-Attandace-Web-App) – Manage student attendance (PHP + MySQL)  
 - [Typing Speed Test App](https://github.com/Athu9552/Type-Master) – Static typing speed tester (JavaScript)  
-- [Login & Signup System](https://github.com/Athu9552/FullStack_Task2_Login-Signup-System-using-PHP-MySQL) – Authentication system (PHP + MySQL)  
 - [Tic Tac Toe](https://github.com/Athu9552/tic-tac-toe-javascript-project) – Classic game built with JavaScript  
 
 ---
